@@ -1,4 +1,3 @@
-
 <p align="center"> 
  <picture> 
   <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 70px>
@@ -17,7 +16,7 @@
 * `My name is`: **Hydr4** ,
 * `I'm`: **18 years old** ,
 * `I’m currently learning`: **programming & exploit vulnerabilities** ,
-* `I love`: **coffee** ,
+* `My goal is`: **1 project per month** ,
 * `Favorite lang`: **python & c++**  
 
 }
